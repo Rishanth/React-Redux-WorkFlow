@@ -1,5 +1,5 @@
 {
-  "name": "redux work flow",
+  "name": "React-Redux-WorkFlow",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,6 +23,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "axios": "^0.15.3",
     "babel": "^6.5.2",
     "babel-eslint": "^7.1.1",
     "babel-preset-stage-1": "^6.1.18",
